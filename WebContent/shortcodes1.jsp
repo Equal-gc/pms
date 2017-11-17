@@ -1,0 +1,422 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: bubbles
+  Date: 2017/11/6
+  Time: 18:37
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<!-- saved from url=(0058)http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Short Codes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="keywords" content="Humanity Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+    <script src="./assets/js/ca-pub-1542822386688301.js"></script><script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href="./assets/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="./assets/css/style.css" rel="stylesheet" type="text/css">
+    <script src="./assets/js/jquery.min.js"></script>
+    <!--start-smoth-scrolling-->
+    <script type="text/javascript" src="./assets/js/move-top.js"></script>
+    <script type="text/javascript" src="./assets/js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+            $(".scroll").click(function(event){
+                event.preventDefault();
+                $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+            });
+        });
+    </script>
+    <!--start-smoth-scrolling-->
+    <link rel="preload" href="./assets/js/integrator.js" as="script"><script type="text/javascript" src="./assets/js/integrator.js"></script><link rel="prefetch" href="https://securepubads.g.doubleclick.net/static/3p_cookie.html"></head>
+<body>
+<!--head-->
+<div class="head" id="home">
+    <div class="container">
+        <div class="head-top">
+            <div class="col-md-6 h-left">
+                <p>+123 456 7897 , +132 567 8977</p>
+            </div>
+            <div class="col-md-6 h-right">
+                <ul>
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="fb"> <font size="2" color="white">个人中心</font></span></a></li>
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="twit"> <font size="2" color="white">注销</font></span></a></li>
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="pin"> </span></a></li>
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="rss"> </span></a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--head-->
+<!--header-->
+<div class="header">
+    <div class="container">
+        <div class="header-main">
+            <div class="logo">
+                <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/index.html"><h1>Humanity</h1></a>
+            </div>
+            <div class="head-right">
+                <div class="top-nav">
+                    <span class="menu"><img src="./assets/png/nav-icon.png" alt=""> </span>
+                    <ul>
+                        <li><a href="login.jsp"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+                        <li><a href="about.jsp" ><span class="glyphicon glyphicon-info-sign"></span>About</a></li>
+                        <li><a href="shortcodes.jsp" class="active"><span class="glyphicon glyphicon-certificate"></span>Short Codes</a></li>
+                        <li><a href="gallery.jsp"><span class="glyphicon glyphicon-picture"></span>Gallery</a></li>
+                        <li><a href="contact.jsp"><span class="glyphicon glyphicon-envelope"></span>Contact</a></li>
+                        <div class="clearfix"> </div>
+                    </ul>
+                    <!--script-->
+                    <script>
+                        $("span.menu").click(function(){
+                            $(".top-nav ul").slideToggle(500, function(){
+                            });
+                        });
+                    </script>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
+<!--//header-->
+<!--typo-starts-->
+<div class="pages">
+    <div class="container">
+        <div class="pages-top heading">
+            <h2>Short Codes</h2>
+        </div>
+        <div class="typo-bottom">
+            <div class="headdings">
+                <h3 class="ghj">Headings</h3>
+                <div class="bs-example">
+                    <table class="table">
+                        <tbody>
+                        <tr>
+                            <td><h1 class="hd" id="h1.-bootstrap-heading">h1. Bootstrap heading<a class="anchorjs-link" href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#h1.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h1></td>
+                            <td class="type-info">Semibold 36px</td>
+                        </tr>
+                        <tr>
+                            <td><h2 class="hd" id="h2.-bootstrap-heading">h2. Bootstrap heading<a class="anchorjs-link" href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#h2.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h2></td>
+                            <td class="type-info">Semibold 30px</td>
+                        </tr>
+                        <tr>
+                            <td><h3 class="hd" id="h3.-bootstrap-heading">h3. Bootstrap heading<a class="anchorjs-link" href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#h3.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h3></td>
+                            <td class="type-info">Semibold 24px</td>
+                        </tr>
+                        <tr>
+                            <td><h4 class="hd" id="h4.-bootstrap-heading">h4. Bootstrap heading<a class="anchorjs-link" href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#h4.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h4></td>
+                            <td class="type-info">Semibold 18px</td>
+                        </tr>
+                        <tr>
+                            <td><h5 class="hd" id="h5.-bootstrap-heading">h5. Bootstrap heading<a class="anchorjs-link" href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#h5.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h5></td>
+                            <td class="type-info">Semibold 14px</td>
+                        </tr>
+                        <tr>
+                            <td><h6 class="hd">h6. Bootstrap heading</h6></td>
+                            <td class="type-info">Semibold 12px</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="Buttons">
+                <h3 class="ghj">Buttons</h3>
+                <h1 class="b1">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h1>
+                <h2 class="b2">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h2>
+                <h3 class="b3">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h3>
+                <h4 class="b4">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h4>
+                <h5 class="b5">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h5>
+                <h6 class="b6">
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-default">Default</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-primary">Primary</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-success">Success</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-info">Info</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-warning">Warning</span></a>
+                    <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><span class="label label-danger">Danger</span></a>
+                </h6>
+            </div>
+            <div class="progress-bars">
+                <h3 class="ghj">Progress Bars</h3>
+                <div class="tab-content">
+                    <div class="tab-pane active" id="domprogress">
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-primary" style="width: 20%"></div>
+                        </div>
+                        <p>Info with <code>progress-bar-info</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-info" style="width: 60%"></div>
+                        </div>
+                        <p>Success with <code>progress-bar-success</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-success" style="width: 30%"></div>
+                        </div>
+                        <p>Warning with <code>progress-bar-warning</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-warning" style="width: 70%"></div>
+                        </div>
+                        <p>Danger with <code>progress-bar-danger</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-danger" style="width: 50%"></div>
+                        </div>
+                        <p>Inverse with <code>progress-bar-inverse</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-inverse" style="width: 40%"></div>
+                        </div>
+                        <p>Inverse with <code>progress-bar-inverse</code> class.</p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-success" style="width: 35%"><span class="sr-only">35% Complete (success)</span></div>
+                            <div class="progress-bar progress-bar-warning" style="width: 20%"><span class="sr-only">20% Complete (warning)</span></div>
+                            <div class="progress-bar progress-bar-danger" style="width: 10%"><span class="sr-only">10% Complete (danger)</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bread-crumbs">
+                <h3 class="ghj">Breadcrumbs</h3>
+                <ol class="breadcrumb">
+                    <li class="active">Home</li>
+                </ol>
+                <ol class="breadcrumb">
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">Home</a></li>
+                    <li class="active">Library</li>
+                </ol>
+                <ol class="breadcrumb">
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">Home</a></li>
+                    <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">Library</a></li>
+                    <li class="active">Data</li>
+                </ol>
+            </div>
+            <div class="pagenatin">
+                <h3 class="ghj">Pagination</h3>
+                <div class="col-md-6">
+                    <nav>
+                        <ul class="pagination pagination-lg">
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <ul class="pagination">
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <ul class="pagination pagination-sm">
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-md-6">
+                    <nav>
+                        <ul class="pagination pagination-lg">
+                            <li class="disabled"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><i class="fa fa-angle-left">«</i></a></li>
+                            <li class="active"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><i class="fa fa-angle-right">»</i></a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <ul class="pagination">
+                            <li class="disabled"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
+                            <li class="active"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1 <span class="sr-only">(current)</span></a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
+                        </ul>
+                    </nav>
+                    <nav>
+                        <ul class="pagination pagination-sm">
+                            <li class="disabled"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><i class="fa fa-angle-left"></i>«</a></li>
+                            <li class="active"><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">1</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">2</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">3</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">4</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#">5</a></li>
+                            <li><a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#"><i class="fa fa-angle-right"></i>»</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="alerts">
+                <h3 class="ghj">Alerts</h3>
+                <div class="alert alert-success" role="alert">
+                    <strong>Well done!</strong> You successfully read this important alert message.
+                </div>
+                <div class="alert alert-info" role="alert">
+                    <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+                </div>
+                <div class="alert alert-warning" role="alert">
+                    <strong>Warning!</strong> Best check yo self, you're not looking too good.
+                </div>
+                <div class="alert alert-danger" role="alert">
+                    <strong>Oh snap!</strong> Change a few things up and try submitting again.
+                </div>
+            </div>
+            <div class="distracted">
+                <h3 class="ghj">Wells</h3>
+                <div class="well">
+                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+                </div>
+                <div class="well">
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here
+                </div>
+                <div class="well">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
+                </div>
+            </div>
+            <div class="appearance">
+                <h3 class="ghj">Badges</h3>
+                <div class="col-md-6">
+                    <p>Add modifier classes to change the appearance of a badge.</p>
+                    <table class="table table-bordered">
+                        <thead>
+                        <tr>
+                            <th>Classes</th>
+                            <th>Badges</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>No modifiers</td>
+                            <td><span class="badge">42</span></td>
+                        </tr>
+                        <tr>
+                            <td><code>.badge-primary</code></td>
+                            <td><span class="badge badge-primary">1</span></td>
+                        </tr>
+                        <tr>
+                            <td><code>.badge-success</code></td>
+                            <td><span class="badge badge-success">22</span></td>
+                        </tr>
+                        <tr>
+                            <td><code>.badge-info</code></td>
+                            <td><span class="badge badge-info">30</span></td>
+                        </tr>
+                        <tr>
+                            <td><code>.badge-warning</code></td>
+                            <td><span class="badge badge-warning">412</span></td>
+                        </tr>
+                        <tr>
+                            <td><code>.badge-danger</code></td>
+                            <td><span class="badge badge-danger">999</span></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-6">
+                    <p>Easily highlight new or unread items with the <code>.badge</code> class</p>
+                    <div class="list-group list-group-alternate">
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge">201</span> <i class="ti ti-email"></i> Inbox </a>
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge badge-primary">5021</span> <i class="ti ti-eye"></i> Profile visits </a>
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge">14</span> <i class="ti ti-headphone-alt"></i> Call </a>
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge">20</span> <i class="ti ti-comments"></i> Messages </a>
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge badge-warning">14</span> <i class="ti ti-bookmark"></i> Bookmarks </a>
+                        <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#" class="list-group-item"><span class="badge badge-danger">30</span> <i class="ti ti-bell"></i> Notifications </a>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--typo-ends-->
+<!--address-starts-->
+<div class="address">
+    <div class="container">
+        <div class="address-top">
+            <div class="col-md-4 add-left">
+                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                <p><label>Company name.</label>
+                    795 Folsom Ave, Suite 600
+                    San Francisco, CA 94107</p>
+            </div>
+            <div class="col-md-4 add-left">
+                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                <p>+122 235 5689 ,
+                    <br>+132 326 3695</p>
+            </div>
+            <div class="col-md-4 add-left">
+                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                <p><a href="mailto:example@email.com">contact@example.com</a></p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!--address-end-->
+<!--footer-starts-->
+<div class="footer">
+    <div class="container">
+        <div class="footer-top">
+            <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/index.html"><h3>Humanity</h3></a>
+            <p>Copyright © 2016.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+            <a href="http://demo.cssmoban.com/cssthemes4/cpts_593_bam/typo.html#home" class="scroll"><img src="./assets/png/top-arrow.png" alt=""></a>
+        </div>
+    </div>
+</div>
+<!--footer-end-->
+
+</body></html>
